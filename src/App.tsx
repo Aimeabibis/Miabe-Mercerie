@@ -4,7 +4,7 @@ import { Home } from './pages/home'
 import { New } from './pages/newproducts'
 import { Categories } from './pages/categories'
 import { Contact } from './pages/contact'
-import { Pyjama } from './pages/pyjama'
+
 import './App.css'
 
 function App() {
@@ -18,7 +18,6 @@ function App() {
           <Route path="/home" element={<Home />} />
           <Route path="/newproducts" element={<New />} />
           <Route path="/categories" element={<Categories />} />
-          <Route path="/pyjama" element={<Pyjama />} />
           <Route path="/contact" element={<Contact />} />
           
           

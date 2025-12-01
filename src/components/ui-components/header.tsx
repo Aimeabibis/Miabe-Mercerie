@@ -21,7 +21,7 @@ export const Header = () => {
     <header className="w-full bg-[#fbf9f9] text-black shadow-sm">
       <nav className="flex justify-between items-center px-6 md:px-20 py-4">
         {/* Logo */}
-        <h1 className="font-bold text-lg md:text-xl">Abibis Lingerie</h1>
+        <h1 className="font-bold text-lg md:text-xl">Miabé Mercerie</h1>
 
         {/* Bouton burger (mobile uniquement) */}
         <button

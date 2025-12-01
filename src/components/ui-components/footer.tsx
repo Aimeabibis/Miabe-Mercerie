@@ -41,7 +41,7 @@ export const Footer = () => {
 
         {/* Droits */}
         <p className="text-xs text-gray-500 text-center md:text-right">
-          © {new Date().getFullYear()} Abibis Mercerie — Tous droits réservés.
+          © {new Date().getFullYear()} Miabé Mercerie — Tous droits réservés.
         </p>
       </div>
     </footer>
