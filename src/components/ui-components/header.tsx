@@ -13,7 +13,6 @@ export const Header = () => {
     { to: "/home", label: "Accueil" },
     { to: "/newproducts", label: "Nouveautés" },
     { to: "/categories", label: "Catégories" },
-    { to: "/pyjama", label: "Pyjama" },
     { to: "/contact", label: "Contact" },
   ];
 
